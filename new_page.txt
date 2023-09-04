@@ -1,18 +1,23 @@
 <!DOCTYPE html>
+<html>
 <head>
-   <link rel="stylesheet" href="mystyles.css">
-   <title>nomthandazo's first website</title>
-   <meta charset="UTF-8">
 
-  </head> 
+<title>My skin care infection
+<meta charset="UTF-8">
+</head>
+<body>
 
 
+<h1>Mental health/h1>
+<h2>Nomthiiey</h2>
+<p>I need medical attention in terms of my skin because I dont like how it looks and that's making me feel insecure about 
+my body and how my skin is different from my peers and I don't like the words people use to bully me because of my skin.</p>
+<p> I will iclude the following:</p>
 
-  <body>
-  <h1>my duke journey</h1>
-  <h2>my forex trade journey</h2> 
-  <p>my forex trade journey will make me become indepedent at a very young stage and also I alsob think it will make me
-     achieve my goals and get better education in either varsity/college/university
-  <img scr="Rand Girl's High School.jpg" alt="Randgirls" />
-  <a href="new_page.html">New pages</a>
-  </body>
+</ul>
+
+    <Ii>My skin infection</Ii>
+    <Ii>Get the right treatmetnt</Ii>
+    <Ii>Improve marks</Ii>
+
+</ ul> 
